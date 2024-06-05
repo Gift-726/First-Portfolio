@@ -314,8 +314,6 @@ span{
     html    {
         font-size: 88%;
     }
-    .header {
-        background-color: red;}
     /* }
     .portfolio-container .portfolio-layer {
         transform: translateY(400px);
@@ -326,7 +324,6 @@ span{
         font-size: 85%;
     }
     .header {
-        background-color: #0ef;
         padding: 2rem 2%;
     }
     section{
